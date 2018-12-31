@@ -40,7 +40,7 @@ def while_iterator(number_of_times)
   number += 1
 end
 end
-end 
+
 
 def until_iterator(number_of_times)
   # code your solution here using the "until" keyword
