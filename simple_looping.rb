@@ -39,6 +39,7 @@ def while_iterator(number_of_times)
   do puts phrase 
   number ++
 end
+end 
 
 def until_iterator(number_of_times)
   # code your solution here using the "until" keyword
