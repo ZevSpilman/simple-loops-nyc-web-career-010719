@@ -12,7 +12,7 @@ def loop_iterator(number_of_times)
   number = 0
   loop do 
    puts phrase
-   number ++
+   number += 1
    if number == number_of_times 
    break
   
